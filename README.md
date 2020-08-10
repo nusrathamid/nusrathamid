@@ -1,7 +1,7 @@
 ### Hi, I am Shihab 👋
 
 <!-- Bio -->
-I am a full-stack developer with more than three years of experience under my belt. I specialize in building back ends using TypeScript, JavaScript, Node.js, and MongoDB as the database; however, I am also quite handy with PHP, Python, SQL, Bash, Redis, Elasticsearch, and other cutting-edge technologies. Currently working as a Software Engineer at [Toptal](https://toptal.com). Besides programming, I enjoy gaming.
+I operate as a full-stack developer with over three years of professional experience. I specialize in building back ends using TypeScript, JavaScript, Node.js, and MongoDB as the database. Moreover, I have been comfortable working with PHP, Python, SQL, Bash, Redis, Elasticsearch, among other cutting-edge technology. I am currently employed as a Software Engineer at [Toptal](https://toptal.com). Besides programming, computer gaming is a hobby of mine.
 
 <br>
 
@@ -49,6 +49,7 @@ I am a full-stack developer with more than three years of experience under my be
 <br>
 
 <!-- Dynamic content -->
-![](https://github-readme-stats.vercel.app/api?username=shihabmridha&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=shihabmridha&count_private=true&hide_border=true&include_all_commits=true&hide=issues&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shihabmridha&layout=compact&hide_border=true)
 
 ![](https://komarev.com/ghpvc/?username=shihabmridha&color=green&style=flat-square&label=Guests)
