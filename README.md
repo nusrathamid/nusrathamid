@@ -11,7 +11,7 @@
 - GCP
 
 #### Connect:
-- [Resume](https://pdfhost.io/v/N5Iji8Coe_Shihabs_Resume.pdf)
+- [Resume](https://pdfhost.io/v/t1K~GysqJ_Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/shihabmridha)
 - [Twitter](https://twitter.com/shihabmridha)
 
