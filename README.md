@@ -1,4 +1,4 @@
-### Hi, I am Shihab 👋
+### Hi, I am Nusrat 👋
 #### Tech used:
 - TypeScript, JavaScript, Python, C#, Java, C++, Bash, PHP
 - Node.js, .NET Core, Laravel
@@ -11,7 +11,7 @@
 - GCP
 
 #### Connect:
-- [LinkedIn](https://www.linkedin.com/in/shihabmridha)
-- [Twitter](https://twitter.com/shihabmridha)
+- [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)
+- [Twitter](https://twitter.com/YOUR_PROFILE)
 
-![](https://komarev.com/ghpvc/?username=shihabmridha&color=green&style=flat-square&label=Guests)
+![](https://komarev.com/ghpvc/?username=nusrathamid&color=green&style=flat-square&label=Guests)
